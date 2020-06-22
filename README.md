@@ -90,7 +90,7 @@ Python 3.5
       - 条件熵；
       - 模型的定义与推导；
       - 梯度下降法；
-      - 改进的迭代尺度法；
+      - 改进的迭代尺度法(IIS)；
       - 拟牛顿法；
    - 最大熵模型与逻辑回归；
    - 实验：<a href="ME.ipynb">Source Code</a>
@@ -141,3 +141,13 @@ Python 3.5
    - 预测算法：贪心算法、Viterbi算法；
    - 学习算法：监督学习与Baum-Welch算法(EM算法)；
    - 实验：<a href="Chapter11-SourceCode.zip">Source Code</a>
+
+- <a href="Chapter12-CN.pdf">Chapter12 线性链条件随机场(67 Pages)</a>
+   - 概率图模型：有向图与无向图模型；
+   - 线性链条件随机场：基本形式、简化形式与矩阵形式；
+   - 概率计算：前向-后向算法、常见概率的计算、特征函数期望值的计算；
+   - 预测算法：贪心算法与Viterbi算法；
+   - 学习算法；
+      - 改进的迭代尺度法(IIS)；
+      - 拟牛顿法；
+   - 实验：<a href="Chapter12-SourceCode.zip">Source Code</a>
