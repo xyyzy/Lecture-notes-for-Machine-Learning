@@ -113,3 +113,16 @@ Python 3.5
       - 启发式：2变量的选择方法；
       - E与b值的更新；
    - 实验：<a href="Chapter8-SourceCode.zip">Source Code</a>，<a href="Fitting-SVM.mp4">Result(Video)</a>
+
+- <a href="Chapter9-CN.pdf">Chapter9 提升方法(32 Pages)</a>
+   - AdaBoost模型；
+      - 加法模型与前向分步算法；
+      - AdaBoost模型的推导；
+      - AdaBoost算法；
+      - 算法示例；
+      - 训练误差分析；
+   - 回归提升树；
+      - 回归提升树算法；
+      - 算法示例；
+   - 梯度提升树
+   - 实验：<a href="Chapter9-SourceCode.zip">Source Code</a>
