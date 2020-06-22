@@ -126,3 +126,12 @@ Python 3.5
       - 算法示例；
    - 梯度提升树
    - 实验：<a href="Chapter9-SourceCode.zip">Source Code</a>
+
+- <a href="Chapter10-CN.pdf">Chapter10 EM算法(32 Pages)</a>
+   - EM算法的引入；
+   - 通用EM算法；
+   - EM算法的收敛性；
+   - 朴素贝叶斯的EM算法；
+   - 高斯混合模型的EM算法；
+   - EM算法与F函数；
+   - 实验：<a href="Chapter10-SourceCode.zip">Source Code</a>，<a href="Fitting-EM.mp4">Result(Video)</a>
