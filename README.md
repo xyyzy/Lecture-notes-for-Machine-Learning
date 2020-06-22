@@ -47,7 +47,7 @@ Python 3.5
    - kd树；
       - kd树的生成；
       - kd树的搜索；
-   - 实验：<a href="Chapter3-SourceCode.zip">Source Code</a>
+   - 实验：<a href="Chapter3-SourceCode.zip">Source Code</a>；
 
 - <a href="Chapter4-CN.pdf">Chapter4 决策树(47 Pages)</a>
    - 分类决策树；
@@ -60,3 +60,10 @@ Python 3.5
       - 分类树的生成；
       - 剪枝算法；
    -实验：<a href="Chapter4-SourceCode.zip">Source Code</a>
+
+- <a href="Chapter5-CN.pdf">Chapter5 朴素贝叶斯(17 Pages)</a>
+   - 分类模型；
+   - 类别推理的依据——期望风险最小化；
+   - 参数估计；
+   - 学习算法；
+   - 实验：<a href="Chapter5-SourceCode.zip">Source Code</a>；
