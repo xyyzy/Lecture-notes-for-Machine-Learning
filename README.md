@@ -83,3 +83,14 @@ Python 3.5
    - 广义线性模型与指数族分布；
    - 逻辑回归与高斯朴素贝叶斯；
    - 实验：<a href="Chapter6-SourceCode.zip">Source Code</a>，<a href="Fitting-LR.mp4">Result(Video)</a>
+
+- <a href="Chapter7-CN.pdf">Chapter7 最大熵模型(29 Pages)</a>
+   - 最大熵原理；
+   - 最大熵模型；
+      - 条件熵；
+      - 模型的定义与推导；
+      - 梯度下降法；
+      - 改进的迭代尺度法；
+      - 拟牛顿法；
+   - 最大熵模型与逻辑回归；
+   - 实验：<a href="ME.ipynb">Source Code</a>
