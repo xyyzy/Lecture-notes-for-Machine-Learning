@@ -25,4 +25,16 @@ Python 3.5
       - 梯度下降法；
       - 牛顿法与拟牛顿法；
       - 拉格朗日乘数法；
-   - 实验：最小二乘法之直线拟合与多项式拟合，<a href="Chapter1-SourceCode.zip">SourceCode</a>；
+   - 实验：最小二乘法之直线拟合与多项式拟合，<a href="Chapter1-SourceCode.zip">Source Code</a>；
+
+- <a href="Chapter2-CN.pdf">Chapter2 判别函数的线性分类基础(47 Pages)</a>
+   - 二分类与多分类基础；
+   - 基本判别函数；
+      - 最小平房分类方法；
+      - Fisher二分类方法；
+      - 最小平方分类方法与Fisher分类方法；
+      - Fisher多分类方法；
+      - 感知机；
+   - 附录；
+      - 标量函数对矩阵的求导；
+   - 实验：感知机，<a href="Perceptron.ipynb">Source Code</a>，<a href="Fitting-Perceptron.mp4">Result(Video)</a>；
