@@ -59,7 +59,7 @@ Python 3.5
       - 回归树的生成；
       - 分类树的生成；
       - 剪枝算法；
-   -实验：<a href="Chapter4-SourceCode.zip">Source Code</a>
+   - 实验：<a href="Chapter4-SourceCode.zip">Source Code</a>
 
 - <a href="Chapter5-CN.pdf">Chapter5 朴素贝叶斯(17 Pages)</a>
    - 分类模型；
@@ -67,3 +67,19 @@ Python 3.5
    - 参数估计；
    - 学习算法；
    - 实验：<a href="Chapter5-SourceCode.zip">Source Code</a>；
+
+- <a href="Chapter6-CN.pdf">Chapter6 逻辑回归(36 Pages)</a>
+   - 从线性回归到二分类逻辑回归：Sigmoid函数；
+   - 二分类模型的似然函数与损失函数；
+   - 二分类模型中梯度的计算；
+   - 代理损失函数；
+   - Logistic分布；
+   - Sigmoid函数与Tanh函数；
+   - 对数几率与线性决策面；
+   - 从二分类到多分类：Sigmoid与Softmax函数；
+   - 多分类模型的似然函数与损失函数；
+   - 多分类模型中梯度的计算；
+   - 神经网络的视角；
+   - 广义线性模型与指数族分布；
+   - 逻辑回归与高斯朴素贝叶斯；
+   - 实验：<a href="Chapter6-SourceCode.zip">Source Code</a>，<a href="Fitting-LR.mp4">Result(Video)</a>
