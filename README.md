@@ -48,3 +48,15 @@ Python 3.5
       - kd树的生成；
       - kd树的搜索；
    - 实验：<a href="Chapter3-SourceCode.zip">Source Code</a>
+
+- <a href="Chapter4-CN.pdf">Chapter4 决策树(47 Pages)</a>
+   - 分类决策树；
+      - 信息论基础：自信息、信息熵、条件熵、联合熵、互信息、相对熵、交叉熵；
+      - 特征选择；
+      - 决策树的生成：ID3与C4.5算法；
+      - 剪枝算法；
+   - 分类回归树(CART算法)
+      - 回归树的生成；
+      - 分类树的生成；
+      - 剪枝算法；
+   -实验：<a href="Chapter4-SourceCode.zip">Source Code</a>
