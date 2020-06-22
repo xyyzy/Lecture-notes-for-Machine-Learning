@@ -30,7 +30,7 @@ Python 3.5
 - <a href="Chapter2-CN.pdf">Chapter2 判别函数的线性分类基础(47 Pages)</a>
    - 二分类与多分类基础；
    - 基本判别函数；
-      - 最小平房分类方法；
+      - 最小平方分类方法；
       - Fisher二分类方法；
       - 最小平方分类方法与Fisher分类方法；
       - Fisher多分类方法；
@@ -38,3 +38,13 @@ Python 3.5
    - 附录；
       - 标量函数对矩阵的求导；
    - 实验：感知机，<a href="Perceptron.ipynb">Source Code</a>，<a href="Fitting-Perceptron.mp4">Result(Video)</a>；
+
+- <a href="Chapter3-CN.pdf">Chapter3 K近邻(20 Pages)</a>
+   - kNN模型；
+      - 距离度量；
+      - k值；
+      - 决策规则；
+   - kd树；
+      - kd树的生成；
+      - kd树的搜索；
+   - 实验：<a href="Chapter3-SourceCode.zip">Source Code</a>
