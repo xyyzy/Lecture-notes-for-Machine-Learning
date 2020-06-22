@@ -135,3 +135,9 @@ Python 3.5
    - 高斯混合模型的EM算法；
    - EM算法与F函数；
    - 实验：<a href="Chapter10-SourceCode.zip">Source Code</a>，<a href="Fitting-EM.mp4">Result(Video)</a>
+
+- <a href="Chapter11-CN.pdf">Chapter11 HMM模型(28 Pages)</a>
+   - 概率计算：前向算法、后向算法及其它概率的计算；
+   - 预测算法：贪心算法、Viterbi算法；
+   - 学习算法：监督学习与Baum-Welch算法(EM算法)；
+   - 实验：<a href="Chapter11-SourceCode.zip">Source Code</a>
